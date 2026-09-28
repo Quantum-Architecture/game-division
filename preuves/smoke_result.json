@@ -1,0 +1,242 @@
+[
+ {
+  "nom": "Surhomme Quantique — Raison d'État (FR)",
+  "fichier": "Surhomme_Quantique_RAISON_DETAT_V2_1.html",
+  "titre": "Surhomme Quantique",
+  "commandes": 21,
+  "ko": 7450,
+  "erreurs": []
+ },
+ {
+  "nom": "Quantum Übermensch — Reason of State (EN)",
+  "fichier": "Surhomme_Quantique_REASON_OF_STATE_V2_1_EN.html",
+  "titre": "Quantum Übermensch",
+  "commandes": 21,
+  "ko": 7443,
+  "erreurs": []
+ },
+ {
+  "nom": "Soirée Surhomme (FR)",
+  "fichier": "Soiree_Surhomme_Quantique_V1.html",
+  "titre": "Soirée Surhomme Quantique — Quantum Excellium",
+  "commandes": 6,
+  "ko": 1740,
+  "erreurs": []
+ },
+ {
+  "nom": "Quantum Übermensch Night (EN)",
+  "fichier": "Quantum_Ubermensch_Night_V1_EN.html",
+  "titre": "Quantum Übermensch Night — Quantum Excellium",
+  "commandes": 6,
+  "ko": 1739,
+  "erreurs": []
+ },
+ {
+  "nom": "Axiom 12 (FR)",
+  "fichier": "AXIOM12_V5_PRODUCTION.html",
+  "titre": "AXIOM 12",
+  "commandes": 17,
+  "ko": 4491,
+  "erreurs": []
+ },
+ {
+  "nom": "Axiom 12 (EN)",
+  "fichier": "AXIOM12_V5_PRODUCTION_EN.html",
+  "titre": "AXIOM 12",
+  "commandes": 17,
+  "ko": 4491,
+  "erreurs": []
+ },
+ {
+  "nom": "Delta Pyramid (FR)",
+  "fichier": "DELTA_PYRAMID_V2_MASTER.html",
+  "titre": "Δ PYRAMID",
+  "commandes": 21,
+  "ko": 3681,
+  "erreurs": []
+ },
+ {
+  "nom": "Delta Pyramid (EN)",
+  "fichier": "DELTA_PYRAMID_V2_MASTER_EN.html",
+  "titre": "Δ PYRAMID",
+  "commandes": 21,
+  "ko": 3681,
+  "erreurs": []
+ },
+ {
+  "nom": "Dialyrium (FR)",
+  "fichier": "DIALYRIUM_V1_1.html",
+  "titre": "DIALYRIUM",
+  "commandes": 7,
+  "ko": 3770,
+  "erreurs": []
+ },
+ {
+  "nom": "Dialyrium (EN)",
+  "fichier": "DIALYRIUM_V1_1_EN.html",
+  "titre": "DIALYRIUM",
+  "commandes": 7,
+  "ko": 3770,
+  "erreurs": []
+ },
+ {
+  "nom": "Noumenara (FR)",
+  "fichier": "NOUMENARA_V1_0_SYMPHONIE.html",
+  "titre": "NOUMENARA — Symphony of the Possible · v1.0 · Quantum Excell",
+  "commandes": 18,
+  "ko": 4315,
+  "erreurs": []
+ },
+ {
+  "nom": "Noumenara (EN)",
+  "fichier": "NOUMENARA_V1_0_SYMPHONY_EN.html",
+  "titre": "NOUMENARA — Symphony of the Possible · v1.0 EN · Quantum Exc",
+  "commandes": 18,
+  "ko": 4314,
+  "erreurs": []
+ },
+ {
+  "nom": "Quantum Chess (FR)",
+  "fichier": "QUANTUM_CHESS_EDITION_JOUEUR_V2_1.html",
+  "titre": "QUANTUM CHESS",
+  "commandes": 5,
+  "ko": 2045,
+  "erreurs": []
+ },
+ {
+  "nom": "Quantum Chess (EN)",
+  "fichier": "QUANTUM_CHESS_PLAYER_EDITION_V2_1_EN.html",
+  "titre": "QUANTUM CHESS",
+  "commandes": 5,
+  "ko": 2722,
+  "erreurs": []
+ },
+ {
+  "nom": "Arca Vitae (FR)",
+  "fichier": "ARCA_VITAE_V1_1.html",
+  "titre": "Arca Vitae",
+  "commandes": 13,
+  "ko": 1976,
+  "erreurs": []
+ },
+ {
+  "nom": "Arca Vitae (EN)",
+  "fichier": "ARCA_VITAE_V1_1_EN.html",
+  "titre": "Arca Vitae",
+  "commandes": 13,
+  "ko": 1975,
+  "erreurs": []
+ },
+ {
+  "nom": "Corpus Futurum (FR)",
+  "fichier": "CORPUS_FUTURUM_V1_1_ATELIER.html",
+  "titre": "Corpus Futurum",
+  "commandes": 14,
+  "ko": 7387,
+  "erreurs": []
+ },
+ {
+  "nom": "Corpus Futurum (EN)",
+  "fichier": "CORPUS_FUTURUM_V1_1_WORKSHOP_EN.html",
+  "titre": "Corpus Futurum",
+  "commandes": 14,
+  "ko": 7386,
+  "erreurs": []
+ },
+ {
+  "nom": "Hodarium (FR)",
+  "fichier": "HODARIUM_V1_1.html",
+  "titre": "HODARIUM",
+  "commandes": 7,
+  "ko": 5580,
+  "erreurs": []
+ },
+ {
+  "nom": "Hodarium (EN)",
+  "fichier": "HODARIUM_V1_1_EN.html",
+  "titre": "HODARIUM",
+  "commandes": 7,
+  "ko": 5580,
+  "erreurs": []
+ },
+ {
+  "nom": "Devenium (FR)",
+  "fichier": "DEVENIUM_V1_1.html",
+  "titre": "DEVENIUM",
+  "commandes": 4,
+  "ko": 4773,
+  "erreurs": []
+ },
+ {
+  "nom": "Devenium (EN)",
+  "fichier": "DEVENIUM_V1_1_EN.html",
+  "titre": "DEVENIUM",
+  "commandes": 4,
+  "ko": 4772,
+  "erreurs": []
+ },
+ {
+  "nom": "Q Spectrum (FR)",
+  "fichier": "Q_SPECTRUM_HTML_V3_QUANTUM_EXCELLIUM.html",
+  "titre": "Q SPECTRUM",
+  "commandes": 21,
+  "ko": 1215,
+  "erreurs": []
+ },
+ {
+  "nom": "Q Spectrum (EN)",
+  "fichier": "Q_SPECTRUM_HTML_V3_EN_QUANTUM_EXCELLIUM.html",
+  "titre": "Q SPECTRUM",
+  "commandes": 21,
+  "ko": 1212,
+  "erreurs": []
+ },
+ {
+  "nom": "Morpheus — Les Trois Ubiquités (FR)",
+  "fichier": "MORPHEUS_V3_LES_TROIS_UBIQUITES.html",
+  "titre": "MORPHEUS",
+  "commandes": 30,
+  "ko": 2249,
+  "erreurs": []
+ },
+ {
+  "nom": "Ludonirium (FR/EN)",
+  "fichier": "LUDONIRIUM_DEMO_SANCTUAIRE_DES_DOUZE_FR_EN.html",
+  "titre": "LE SANCTUAIRE DES DOUZE",
+  "commandes": 10,
+  "ko": 7517,
+  "erreurs": []
+ },
+ {
+  "nom": "Parcivium (FR)",
+  "fichier": "PARCIVIUM_DEMO.html",
+  "titre": "PARCIVIUM",
+  "commandes": 16,
+  "ko": 1161,
+  "erreurs": []
+ },
+ {
+  "nom": "Parcivium (EN)",
+  "fichier": "PARCIVIUM_DEMO_EN.html",
+  "titre": "PARCIVIUM",
+  "commandes": 16,
+  "ko": 1161,
+  "erreurs": []
+ },
+ {
+  "nom": "Syngnosium (FR)",
+  "fichier": "SYNGNOSIUM_DEMO.html",
+  "titre": "SYNGNOSIUM",
+  "commandes": 18,
+  "ko": 1518,
+  "erreurs": []
+ },
+ {
+  "nom": "Syngnosium (EN)",
+  "fichier": "SYNGNOSIUM_DEMO_EN.html",
+  "titre": "SYNGNOSIUM",
+  "commandes": 18,
+  "ko": 1517,
+  "erreurs": []
+ }
+]
