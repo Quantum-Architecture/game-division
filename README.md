@@ -1,3 +1,5 @@
+[![CI](https://github.com/Quantum-Architecture/game-division/actions/workflows/verify.yml/badge.svg?branch=main)](https://github.com/Quantum-Architecture/game-division/actions/workflows/verify.yml)
+
 # Game Division — sixteen interactive worlds
 **Quantum Excellium Marango.** Serious games and philosophical worlds, each delivered as **one self-contained HTML file**: playable offline, no account, no data transmitted, with a chained journal that attests the integrity of every session.
 
